@@ -9,3 +9,16 @@
           count('test1.txt','d')        统计 test2.txt 文件中代码行数
           count('test1.txt','p')        统计 test2.txt 文件中空格行数
           count('test1.txt','h')        统计 test2.txt 文件中注释行数
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          

@@ -1,0 +1,48 @@
+>> count('test1.txt','c')
+
+c =
+
+    36
+
+>> count('test1.txt','z')
+
+z =
+
+    29
+
+>> count('test1.txt','w')
+
+w =
+
+     7
+
+>> count('test1.txt','s')
+
+s =
+
+     2
+
+
+s =
+
+     2
+
+>> count('test2.txt','d')
+
+d =
+
+     2
+
+>> count('test2.txt','p')
+
+p =
+
+     2
+
+>> count('test2.txt','h')
+
+h =
+
+     3
+
+>> 
